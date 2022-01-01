@@ -1,2 +1,2 @@
-Poot poot I'm a teapot
+A simple automake project, compete with test code.
 

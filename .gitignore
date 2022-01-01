@@ -1,0 +1,11 @@
+
+# Ignore directories created automatically by automake
+m4/
+build-aux/
+
+*.m4
+*.in
+*~
+configure
+
+
